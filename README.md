@@ -25,5 +25,9 @@
 9. Zaktualizuj lokalną gałąź główną:
    `git switch main` → `git pull origin main`
 
+### Narzędzia zespołu
+Git — historia zmian 
+GitHub — Pull Requesty i code review 
+
 ### Autor
 Piotr Nowakowski
