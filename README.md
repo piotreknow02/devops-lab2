@@ -26,8 +26,8 @@
    `git switch main` → `git pull origin main`
 
 ### Narzędzia zespołu
-Git — kontrola wersji 
-GitHub — współpraca nad kodem 
+Git — historia zmian, kontrola wersji 
+GitHub — Pull Requesty i code review, współpraca nad kodem
 
 ### Autor
 Piotr Nowakowski
